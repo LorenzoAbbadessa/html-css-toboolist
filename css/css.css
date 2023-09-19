@@ -1,0 +1,123 @@
+body{
+    background-color: lightgray;
+    margin: 0px;
+}
+
+.testo-logo{
+    display: inline;
+    font-size: 50px;
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+}
+
+.logo{
+    height: 100px;
+    padding-left: 30px;
+}
+
+.linea-logo{
+    background-color: white;
+}
+
+.navigazione{
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    padding: 15px 30px;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.bottone-blue{
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: lightblue;
+    border: 0px;
+    color: white;
+}
+
+.bottone-trasparente{
+    padding: 10px 15px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: lightgray;
+    color: grey
+    
+}
+.li{
+    display: inline;
+    padding: auto;
+}
+
+.check{
+    padding: 2px 5px;
+    color: green;
+    padding: auto;
+    border: solid green 1px;
+    border-radius: 50%;
+}
+
+.x{
+    padding: 2px 5px;
+    color: red;
+    padding: auto;
+    border: solid red 1px;
+    border-radius: 50%;
+}
+.main{
+    margin: auto;
+    margin-top: 4px;
+    width: 60%;
+    padding: 15px 30px;
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.Editorial{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: lightblue;
+    border: 0px;
+    color: white;
+}
+
+.Q1-Goals{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: violet;
+    border: 0px;
+    color: white;
+}
+
+.Recrueting{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: lightgreen;
+    border: 0px;
+    color: white;
+}
+
+.Mobile{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: orange;
+    border: 0px;
+    color: white;
+}
+
+.Sales{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: green;
+    border: 0px;
+    color: white;
+}
+
+.Website{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: pink;
+    border: 0px;
+    color: white;
+}
